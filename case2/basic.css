@@ -1,6 +1,6 @@
 :root{
-	--back_colorcolor :red;
-	--heartbeat:  
+	--back_color :red;
+
 }
 
 body {
@@ -29,7 +29,7 @@ footer {
 }
 
 div.grid1 {
-    background-color:var(--back_colorcolor);
+    background-color:var(--back_color);
     animation-name: ani_grid1;
     animation-duration: 4s;
 }
